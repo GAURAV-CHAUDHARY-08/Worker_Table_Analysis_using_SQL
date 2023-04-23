@@ -1,3 +1,3 @@
 # SQL_Analysis
-In this Repository I provide you some beginners and intermediate level of queries and analysis.
-SQL is a query language that allows to deal with big database and make quantitative analysis.
+This is the analysis on the worker dataset and another worker related dataset named title dataset to Manipulate and gain insights from the data.
+This Dataset and related questions to this dataset is provided by my Mentor of Data Science.
